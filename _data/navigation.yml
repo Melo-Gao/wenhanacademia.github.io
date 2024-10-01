@@ -1,25 +1,22 @@
 # main links links
 main:
-  - title: "Short CV"
-    url: /cv/
-
   - title: "Publications"
-    url: /publications/
-    
-  - title: "Research"
-    url: /research_experiences/
-    
-#  - title: "Projects"
-#    url: /projects/
-    
-  - title: "Teaching"
-    url: /teaching/
-    
-#  - title: "Presentation"
-#    url: /talks/   
-        
-#  - title: "Blog"
-#    url: /portfolio/
+    url: '#publications'
 
-  - title: "Services"
-    url: /services/
+  - title: "Talks"
+    url: '#talks'
+
+#   - title: "Teaching"
+#     url: /teaching/    
+    
+#   - title: "Portfolio"
+#     url: /portfolio/
+        
+#   - title: "Blog Posts"
+#     url: /year-archive/
+    
+  - title: "CV"
+    url: /files/cv.pdf
+    
+#   - title: "Guide"
+#     url: /markdown/
