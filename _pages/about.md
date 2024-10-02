@@ -29,6 +29,9 @@ The best way to contact me is through email: wenhan(dot)gao(at symbol)stonybrook
 
 
 # Publications
+
+\* indicates equal contributors.
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
