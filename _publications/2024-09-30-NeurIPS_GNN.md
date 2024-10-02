@@ -9,7 +9,7 @@ paperurl: 'https://openreview.net/profile?id=~Wenhan_Gao1'
 codeurl: 'https://github.com/wenhangao21/'
 bibtex: NeurIPS_GNN.bib
 citation: 'Empowering Active Learning for 3D Molecular Graphs with Geometric Graph Isomorphism. R.Subedi, L.Wei, W.Gao, S.Chakraborty, Y.Liu. NeurIPS'
-authors: 'R.Subedi\*, L.Wei\*, **W.Gao\***, S.Chakraborty, Y.Liu.'
+authors: 'R.Subedi\*, L.Wei, **W.Gao\***, S.Chakraborty, Y.Liu.'
 header:
   teaser: NeurIPS_GNN.png
 ---
