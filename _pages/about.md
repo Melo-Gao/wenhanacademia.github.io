@@ -28,7 +28,7 @@ The best way to contact me is through email: wenhan(dot)gao(at symbol)stonybrook
 * February 2023: First author on a paper on [active learning-based sampling for high-dimensional PDEs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=te4HWo0AAAAJ&citation_for_view=te4HWo0AAAAJ:u5HHmVD_uO8C) published in the Journal of Computational Physics.
 
 
-# Publications
+# First or Co-first Author Publications
 
 \* indicates equal contributors.
 
