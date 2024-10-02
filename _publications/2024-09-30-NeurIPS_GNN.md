@@ -11,6 +11,6 @@ bibtex: NeurIPS_GNN.bib
 citation: 'Empowering Active Learning for 3D Molecular Graphs with Geometric Graph Isomorphism. R.Subedi, L.Wei, W.Gao, S.Chakraborty, Y.Liu. NeurIPS'
 authors: 'R.Subedi\*, L.Wei\*, **W.Gao\***, S.Chakraborty, Y.Liu.'
 header:
-  teaser: TMLR_CTNO.png
+  teaser: NeurIPS_GNN.png
 ---
 We develop a set of new isometries for expressive representations of 3D molecular graphs.
