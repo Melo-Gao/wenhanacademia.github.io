@@ -14,4 +14,3 @@ header:
 ---
 A general sampling approach for efficient PINN in high dimensions.
 
-# [Download paper here](https://arxiv.org/pdf/2310.00105.pdf)
