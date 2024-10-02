@@ -9,36 +9,39 @@ redirect_from:
 ---
 
 # About me
-I am a second-year PhD student at UC San Diego Department of CSE, advised by [Prof. Rose Yu](https://roseyu.com/). My current research interest lies in generative AI, physics-guided deep learning, and geometric deep learning. I am particularly excited about machine learning methods for scientific discovery, such as symmetry discovery and governing equation discovery. I was a research intern at NEC Laboratories during 2023 summer, focusing on physics-informed human motion generation. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
+I'm a second year Ph.D. student in Applied Mathematics at Stony Brook University supervised by [Professor Yi Liu](https://jacoblau0513.github.io/). 
+
+Previously, I obtained a Bachelor of Science degree from [Stony Brook University](https://www.stonybrook.edu/) in both [applied mathematics](https://www.stonybrook.edu/commcms/ams/)📙 and [pure mathematics](http://www.math.stonybrook.edu/)📕.
+
+I'm interested in Neural Operators and AI for Science; I'm also broadly interested in Machine Learning, discrete math, graph theory, and many other topics in applied mathematics and computer science. 👀
+
+The best way to contact me is through email: wenhan(dot)gao(at symbol)stonybrook(dot)edu 📫  
 
 # News
-* October 2023: [Invited talk](https://www.youtube.com/watch?v=veaLPntNw2M) about symmetry discovery at [UMich SciML Webinar](https://micde.umich.edu/news-events/sciml-webinar-series/)!
-* September 2023: [Latent Space Symmetry Discovery](https://arxiv.org/pdf/2310.00105.pdf) available on arXiv!
-* June 2023: Interning at NEC Laboratories Princeton!
-* April 2023: [LieGAN](https://arxiv.org/pdf/2302.00236.pdf) accepted at ICML 2023!
+* September 2024: Co-first author on a paper, in collaboration with FSU, accepted by NeurIPS on [symmetries for molecular GNN active learning](https://www.cs.fsu.edu/dr-shayok-chakraborty-has-a-paper-accepted-at-neurips-2024/)!
+* September 2024: First author on a paper accepted by TMLR on [symmetries in neural operators](https://openreview.net/forum?id=pMD7A77k3i)!
+* August 2024: Finished teaching AMS 326, Numerical Analysis. Congrats to all my students on a job well done!
+* August 2024: Mentored undergraduate student Xiang Liu (freshman in CS/AMS), who successfully completed a summer research project on neural operators for climate change through the SUNY SOAR program.Congrats!
+* March 2024: Awarded the Excellence in Student Teaching Award from the AMS department at Stony Brook for Fall 2023!
+* August 2024: Passed Ph.D. qualifying exam in AMS!
+* December 2023: Finished teaching the graduate course AMS 595, Fundamentals of Computing. Congrats to all my students on a job well done!
+* February 2023: First author on a paper on [active learning-based sampling for high-dimensional PDEs](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=te4HWo0AAAAJ&citation_for_view=te4HWo0AAAAJ:u5HHmVD_uO8C) published in the Journal of Computational Physics.
 
-# Experiences
-**[NEC Laboratories](https://www.nec-labs.com/)** | Princeton, NJ
-* (06/2023 - 09/2023) **Research Intern**
-    * Diffusion model for 3D human motion generation
-    * Incorporate physics simulator into training to perform physically valid generation
- 
-**[USC Melady Lab](https://melady.usc.edu/)** | Los Angeles, CA
-* (06/2021 - 09/2021) **Research Assistant**
-    * Federated learning under distribution shift
 
 # Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-# Talks
-<ul>
-  {% for post in site.talks reversed %}
-    {% include archive-single-mytalk.html %}
-  {% endfor %}
-</ul>
 
+
+<!-- # Talks
+<ul>
+{% for post in site.talks reversed %}
+{% include archive-single-mytalk.html %}
+{% endfor %}
+</ul>
+-->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
